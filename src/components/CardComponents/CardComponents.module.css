@@ -1,0 +1,22 @@
+.card_item_container {
+  width: 21rem;
+}
+
+.card_item_container a {
+  color: black;
+  text-decoration: none;
+}
+
+.card_item_review {
+  display: flex;
+  align-items: center;
+}
+
+.card_item_image {
+  height: 11rem;
+}
+
+.card_item_review_container {
+  display: flex;
+  gap: 1rem;
+}

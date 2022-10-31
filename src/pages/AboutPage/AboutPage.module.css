@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+.image_container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+}
+
+.about_image {
+  width: 100%;
+  opacity: 0.8;
+}
+
+.image_container_heading {
+  position: absolute;
+  color: white;
+  font-family: 'Island Moments', cursive;
+  font-size: 7em;
+}
+
+.about_heading {
+  margin: 10px 15px;
+}
+
+.about_paragraph {
+  margin: 0 15px;
+  line-height: 2;
+}

@@ -1,0 +1,35 @@
+.footer_containter {
+  background-color: #040e27;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.footer_item_containter {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_title {
+  margin-bottom: 3rem;
+}
+
+.footer_item_menu_containter {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_item_menu_containter a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer_social_icone_container {
+  display: flex;
+  column-gap: 2rem;
+}
+
+.footer_social_icone_container a {
+  color: white;
+}

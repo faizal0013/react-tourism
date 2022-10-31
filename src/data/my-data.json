@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Hawa Mahal",
+    "image": "Hawa-Mahal.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "6 Nights - 7 Day"
+  },
+  {
+    "id": 2,
+    "title": "Jaisalmer",
+    "image": "Jaisalmer.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "8 Nights - 9 Day"
+  },
+  {
+    "id": 3,
+    "title": "Mehrangarh Fort",
+    "image": "Mehrangarh-Fort.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "10 Nights - 11 Day"
+  },
+  {
+    "id": 4,
+    "title": "Ranakpur Temple",
+    "image": "Ranakpur-Temple.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "2 Nights - 3 Day"
+  },
+  {
+    "id": 5,
+    "title": "Varkala Beach",
+    "image": "Varkala-Beach.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "6 Nights - 7 Day"
+  },
+  {
+    "id": 6,
+    "title": "Taj Mahal",
+    "image": "Taj-Mahal.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "5 Nights - 6 Day"
+  },
+  {
+    "id": 7,
+    "title": "Hawa Mahal",
+    "image": "Hawa-Mahal.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "4 Nights - 5 Day"
+  },
+  {
+    "id": 8,
+    "title": "Jaisalmer",
+    "image": "Jaisalmer.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "2 Nights - 3 Day"
+  },
+  {
+    "id": 9,
+    "title": "Mehrangarh Fort",
+    "image": "Mehrangarh-Fort.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "8 Nights - 9 Day"
+  },
+  {
+    "id": 10,
+    "title": "Ranakpur Temple",
+    "image": "Ranakpur-Temple.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "11 Nights - 12 Day"
+  },
+  {
+    "id": 11,
+    "title": "Varkala Beach",
+    "image": "Varkala-Beach.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "5 Nights - 6 Day"
+  },
+  {
+    "id": 12,
+    "title": "Taj Mahal",
+    "image": "Taj-Mahal.jpg",
+    "state": "india",
+    "review": 3.5,
+    "days": "2 Nights - 3 Day"
+  }
+]

@@ -1,0 +1,23 @@
+.containers {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.title_container_center {
+  width: 20rem;
+  margin: auto;
+}
+
+.paragraph_container_center {
+  width: 31rem;
+  padding: 1rem;
+  margin: 0 auto;
+  line-height: 30px;
+}
+
+.btn__more_places:hover {
+  background-color: cornflowerblue !important;
+  border-color: cornflowerblue !important;
+}

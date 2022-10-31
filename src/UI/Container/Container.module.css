@@ -1,0 +1,12 @@
+.container {
+  height: 43rem;
+  display: flex;
+  align-items: center;
+}
+
+.container__login {
+  border-radius: 10px;
+  width: 30rem;
+  margin: 20px auto;
+  padding: 1rem;
+}
