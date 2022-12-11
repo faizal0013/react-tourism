@@ -1,0 +1,36 @@
+.different__container {
+  border: 0.1px solid rgba(128, 128, 128, 0.603);
+  display: flex;
+}
+
+.places__container {
+  text-align: center;
+  width: 15rem;
+}
+
+.places__container_differnt {
+  width: 12rem;
+  margin: auto;
+  text-align: start;
+}
+
+.places__differnt {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.places__differnt_p {
+  margin-bottom: 0;
+}
+
+.places__p {
+  text-align: start;
+}
+
+.dec__p {
+  width: 20rem;
+  text-align: start;
+  margin: 1.5rem 0;
+}

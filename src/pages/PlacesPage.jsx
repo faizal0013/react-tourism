@@ -10,7 +10,7 @@ const PlacesPage = () => {
       <Container>
         <CardComponent>
           {my_data.map(data => (
-            <CardComponents data={data} />
+            <CardComponents data={data} key={Math.random()} />
           ))}
         </CardComponent>
       </Container>

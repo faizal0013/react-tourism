@@ -5,31 +5,59 @@
     "image": "Hawa-Mahal.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "6 Nights - 7 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 2,
     "title": "Jaisalmer",
     "image": "Jaisalmer.jpg",
     "state": "india",
-    "review": 3.5,
-    "days": "8 Nights - 9 Day"
+    "review": 4,
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 3,
     "title": "Mehrangarh Fort",
     "image": "Mehrangarh-Fort.jpg",
     "state": "india",
-    "review": 3.5,
-    "days": "10 Nights - 11 Day"
+    "review": 2.5,
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 4,
     "title": "Ranakpur Temple",
     "image": "Ranakpur-Temple.jpg",
     "state": "india",
-    "review": 3.5,
-    "days": "2 Nights - 3 Day"
+    "review": 5,
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 5,
@@ -37,15 +65,29 @@
     "image": "Varkala-Beach.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "6 Nights - 7 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 6,
     "title": "Taj Mahal",
     "image": "Taj-Mahal.jpg",
     "state": "india",
-    "review": 3.5,
-    "days": "5 Nights - 6 Day"
+    "review": 5,
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 7,
@@ -53,7 +95,14 @@
     "image": "Hawa-Mahal.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "4 Nights - 5 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 8,
@@ -61,7 +110,14 @@
     "image": "Jaisalmer.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "2 Nights - 3 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 9,
@@ -69,7 +125,14 @@
     "image": "Mehrangarh-Fort.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "8 Nights - 9 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 10,
@@ -77,7 +140,14 @@
     "image": "Ranakpur-Temple.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "11 Nights - 12 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 11,
@@ -85,7 +155,14 @@
     "image": "Varkala-Beach.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "5 Nights - 6 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   },
   {
     "id": 12,
@@ -93,6 +170,13 @@
     "image": "Taj-Mahal.jpg",
     "state": "india",
     "review": 3.5,
-    "days": "2 Nights - 3 Day"
+    "days_nigths": "6 Nights - 7 Day",
+    "description": "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace",
+    "days": [
+      { "placeName": "Hawa Mahal" },
+      { "placeName": "Jaisalmer" },
+      { "placeName": "Ranakpurtemple" },
+      { "placeName": "Mehrangarh-Fort" }
+    ]
   }
 ]

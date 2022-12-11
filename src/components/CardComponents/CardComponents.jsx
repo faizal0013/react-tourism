@@ -1,6 +1,7 @@
 import { Card } from 'react-bootstrap';
-import { FaRegStar, FaStar, FaStarHalfAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+
+import StarReviews from '../StarReviews/StarReviews';
 
 import style from './CardComponents.module.css';
 
@@ -21,35 +22,11 @@ const CardComponents = ({ data }) => {
             <Card.Title>{data.title}</Card.Title>
           </Link>
           <Card.Text className="text-secondary">{data.state}</Card.Text>
-          <Card.Text className="text-secondary">{data.days}</Card.Text>
+          <Card.Text className="text-secondary">{data.days_nigths}</Card.Text>
           <Card.Text className="align-middle" as="div">
             <div className={style.card_item_review_container}>
               <div className={style.card_item_review}>
-                <FaStar
-                  style={{
-                    color: '#FDCC0D',
-                  }}
-                />
-                <FaStar
-                  style={{
-                    color: '#FDCC0D',
-                  }}
-                />
-                <FaStar
-                  style={{
-                    color: '#FDCC0D',
-                  }}
-                />
-                <FaStarHalfAlt
-                  style={{
-                    color: '#FDCC0D',
-                  }}
-                />
-                <FaRegStar
-                  style={{
-                    color: '#FDCC0D',
-                  }}
-                />
+                <StarReviews review={data.review} />
               </div>
               <div className={style.card_item_review}>({data.review} Review)</div>
             </div>

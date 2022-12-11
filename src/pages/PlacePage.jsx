@@ -6,6 +6,8 @@ import { FadeLoader } from 'react-spinners';
 import my_data from '../data/my-data.json';
 import Div from '../UI/Div/Div';
 
+import PlaceComponents from '../components/placeComponents/PlaceComponents';
+
 const PlacePage = () => {
   const [loading, setLoading] = useState(true);
   const [place, setPlace] = useState({});
@@ -31,18 +33,7 @@ const PlacePage = () => {
           <FadeLoader color="#36d7b7" />
         </Div>
       ) : (
-        <>
-          <h1>{place.title}</h1>
-          <img
-            src={require(`../assets/images/${place.image}`)}
-            alt=""
-            style={{
-              width: '100%',
-            }}
-          />
-          <p>{place.state}</p>
-          <p>{place.review}</p>
-        </>
+        <PlaceComponents place={place} />
       )}
     </>
   );
